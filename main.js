@@ -5,5 +5,5 @@ requirejs.config({
 });
 
 requirejs(['jquery', 'validata'],function($, validata){
-	console.log(validata.isEqual('1',1))
+	console.log('something change');
 });
