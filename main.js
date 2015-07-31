@@ -11,4 +11,5 @@ requirejs(['jquery', 'validata'],function($, validata){
 
 
 	console.log('I am a new branch');
+	console.log('I am a new branch22');
 });
