@@ -6,4 +6,5 @@ requirejs.config({
 
 requirejs(['jquery', 'validata'],function($, validata){
 	console.log('something change');
+	console.log('我又更改了....');
 });
